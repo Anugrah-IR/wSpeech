@@ -1,0 +1,16 @@
+D:\Project\wSpeech\wSpeech\bin\Release\wSpeech.exe.config
+D:\Project\wSpeech\wSpeech\bin\Release\wSpeech.exe
+D:\Project\wSpeech\wSpeech\bin\Release\wSpeech.pdb
+D:\Project\wSpeech\wSpeech\obj\Release\MainWindow.g.cs
+D:\Project\wSpeech\wSpeech\obj\Release\App.g.cs
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech_MarkupCompile.cache
+D:\Project\wSpeech\wSpeech\obj\Release\MainWindow.baml
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech.g.resources
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech.Properties.Resources.resources
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech.csproj.GenerateResource.Cache
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech.csproj.CoreCompileInputs.cache
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech.exe
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech.pdb
+D:\Project\wSpeech\wSpeech\obj\Release\wSpeech.csprojResolveAssemblyReference.cache
+D:\Project\wSpeech\wSpeech\obj\Release\AboutBox.baml
+D:\Project\wSpeech\wSpeech\obj\Release\AboutBox.g.cs

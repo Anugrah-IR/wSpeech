@@ -1,0 +1,16 @@
+D:\Project\wSpeech\wSpeech\bin\Debug\wSpeech.exe.config
+D:\Project\wSpeech\wSpeech\bin\Debug\wSpeech.exe
+D:\Project\wSpeech\wSpeech\bin\Debug\wSpeech.pdb
+D:\Project\wSpeech\wSpeech\obj\Debug\MainWindow.g.cs
+D:\Project\wSpeech\wSpeech\obj\Debug\App.g.cs
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech_MarkupCompile.cache
+D:\Project\wSpeech\wSpeech\obj\Debug\MainWindow.baml
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech.g.resources
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech.Properties.Resources.resources
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech.csproj.GenerateResource.Cache
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech.csproj.CoreCompileInputs.cache
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech.exe
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech.pdb
+D:\Project\wSpeech\wSpeech\obj\Debug\AboutBox.g.cs
+D:\Project\wSpeech\wSpeech\obj\Debug\AboutBox.baml
+D:\Project\wSpeech\wSpeech\obj\Debug\wSpeech.csprojAssemblyReference.cache

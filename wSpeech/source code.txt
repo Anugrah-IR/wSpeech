@@ -1,0 +1,9 @@
+using System.Speech.Synthesis;
+
+
+SpeechSynthesizer Speaker = new SpeechSynthesizer();
+Speaker.GetInstalledVoices();
+Speaker.SelectVoice("Microsoft David Desktop");  //you can replace David with Zira / Hazel
+Speaker.Rate = 1;  //1 means normal speed, 2 = double speed, 1/2 = half speed, etc
+Speaker.Volume = 100;  //volume percentage
+Speaker.SpeakAsync("Text");
